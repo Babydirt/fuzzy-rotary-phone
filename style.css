@@ -1,0 +1,61 @@
+body {
+    margin:0;
+    background-color:#EAEAEA;
+}
+.contact{
+  padding:0.5px 10px ;
+  background-color:#FFDD00;
+} 
+.header img{
+  float:center;
+ 
+  
+} 
+.header h2{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  padding:-50%;
+}
+.header{
+  background-color:white;
+  padding:10px 0px ;
+}
+.pic{
+  position: relative;
+  text-align: center;
+}
+.textcenter{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'M PLUS 1', sans-serif;
+  text-align:center;
+}
+.textcenter a{
+  background-color:#00ACCA;
+  padding:10px 20px;
+  border-radius:15px;
+  overflow: hidden;
+  color:black;
+  
+}
+.picturelist{
+  font-family: 'M PLUS 1', sans-serif;
+}
+.ex h2{
+  font-family: 'M PLUS 1', sans-serif;
+}
+.ex h3{
+  text-align:left;
+  letter-spacing:1px;
+  
+}
+.Staff h2{
+  text-align:center;
+  font-family: 'M PLUS 1', sans-serif;
+}
+.Staff h3{
+  text-align:center;
+  font-family: 'Oswald', sans-serif;
+}
